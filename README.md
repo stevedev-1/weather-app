@@ -1,3 +1,5 @@
 # weather-app
+A new Flutter application that shows weather data based on user's location or search.
 
-A Weather Application built with flutter. 
+Get your api key from https://openweathermap.org
+
